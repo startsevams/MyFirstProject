@@ -24,7 +24,7 @@ public class HelloWorld {
         System.out.println(geo.speak(ENGLISH));
         System.out.println(ivan.speak(RUSSIAN));
         System.out.println(ivan.speak(ENGLISH));
-
+        System.out.println("gittest");
     }
 }
 enum UserType {
